@@ -1,11 +1,10 @@
-# canvas_sine_wave
+# canvas_sine_and_cosine_waves
 Fun with canvas and trigonometry.
 
-Not ignoring dev folder to show non minified files.
 
-TODO: add comments in js file.
+TODO: add cosine wave.
 
-## Representing and animating a sine wave in canvas
+## Representing and animating sine and cosine waves in canvas
 
 ![alt text](http://www.fanaimi.com/blog/blog-content/uploads/2015/11/final-result.png "fanaimi - sine wave")
 
