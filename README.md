@@ -6,11 +6,11 @@ TODO: add cosine wave.
 
 ## Representing and animating sine and cosine waves in canvas
 
-![alt text](http://www.fanaimi.com/blog/blog-content/uploads/2015/11/final-result.png "fanaimi - sine wave")
+![alt text](http://www.fanaimi.com/blog/blog-content/uploads/2016/03/sine_cosine.png "fanaimi - sine and cosine waves")
 
-Read more at this [post](http://www.fanaimi.com/blog/canvas-trigonometry-waves-1-sine-wave/).
+Read more at this [post](http://www.fanaimi.com/blog/canvas-trigonometry-waves-3-sine-and-cosine-waves/).
 
-Visit demo [here](http://www.fanaimi.com/demos/canvas_sine_demo/)
+Visit demo [here](http://www.fanaimi.com/demos/canvas_sine_cosine_waves/)
 
 Go to [fanaimi.com](http://www.fanaimi.com).
 
